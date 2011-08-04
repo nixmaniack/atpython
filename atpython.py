@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+'''
+Author: Muneeb Shaikh <iammuneeb@gmail.com>
+License: GPLv3
+Created: August 04, 2011
+'''
 import serial
 import time
  
